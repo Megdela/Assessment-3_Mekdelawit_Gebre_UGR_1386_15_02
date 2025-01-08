@@ -44,7 +44,7 @@ body {
 }
 
 .btn:hover {
-  background: color #786767;
+  background-color: #6d5959;
   
 }
 
@@ -65,4 +65,8 @@ body {
 }
 #clear {
   background-color: #a6a8a7;
+}
+#clear:hover{
+  background-color: #aaacab;
+  font-size: bold;
 }
